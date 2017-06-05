@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//cmd-chatroom/client.py=utf-8
+encoding//cmd-chatroom/server.py=utf-8
+encoding//socketio-chatroom/helloworld.py=utf-8
+encoding//socketio-chatroom/server.py=utf-8
